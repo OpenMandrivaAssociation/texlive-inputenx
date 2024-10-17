@@ -3,7 +3,7 @@ Version:	52986
 Release:	2
 Summary:	Enhanced input encoding handling
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/inputenx
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/inputenx
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/inputenx.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/inputenx.doc.r%{version}.tar.xz
